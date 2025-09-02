@@ -33,7 +33,7 @@ $$
 \mathbb{Q}(S_T > K) = \int_K^{\infty} f_{S_T}^{\mathbb{Q}}(s) \, ds = 1 - F_{S_T}^{\mathbb{Q}}(K)
 $$
 
-Without assuming a specific model (like lognormal under geometric Brownian motion), the call price remains in this general integral form. A closed-form expression using standard CDFs (e.g., Black-Scholes) requires specifying the distribution of $S_T$. But... what if instead we want to obtain this distribution from the markets??
+Without assuming a specific model (like lognormal under geometric Brownian motion), the call price remains in this general integral form. A closed-form expression using standard CDFs (e.g., Black-Scholes) requires specifying the distribution of $S_T$. But... what if instead we want to obtain this distribution from the real market option prices??
 
 ---
 
